@@ -1,0 +1,23 @@
+body{
+    background-color: #99cccc;
+    background-image: url(back.png);
+    background-repeat: repeat-x;
+}
+
+h1{
+    font-size: 350%;
+    text-align: center;
+    color: #ffffcc;    
+}
+
+h2{
+    border-left-width: 30px;
+    border-left-style: solid;
+    border-left-color: #00cc66;
+}
+
+ul{
+    line-height: 2em;
+    background-color: #ffffff;
+    list-style-type: square;
+}
